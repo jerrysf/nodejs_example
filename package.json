@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "demo purpose",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrysf/nodejs_example.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Jerry Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerrysf/nodejs_example/issues"
+  },
+  "homepage": "https://github.com/jerrysf/nodejs_example#readme"
+}
